@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Iinclude",
+      "-o",
+      "obj/matrix.o",
+      "src/matrix.c"
+    ],
+    "directory": "/home/kennethpabillo/Documents/Different Machine/Matrix",
+    "file": "/home/kennethpabillo/Documents/Different Machine/Matrix/src/matrix.c",
+    "output": "/home/kennethpabillo/Documents/Different Machine/Matrix/obj/matrix.o"
+  }
+]
