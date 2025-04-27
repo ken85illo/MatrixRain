@@ -1,4 +1,4 @@
-# MatrixRain
+# matrix-rain-sfml
 Hecker effect lol
 
 Just archiving an old project of mine to its own repository
